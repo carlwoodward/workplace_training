@@ -11,8 +11,8 @@ Each cheatsheet is intended to be used to prepare for and complete a task until 
 
 There are three directories:
 
-- programmers - details specific to the task of building software
-- managers - required reading for people managing programmers including team leads
-- everyone - relevant for everyone who interacts with any programmer
+- `programmers` - details specific to the task of building software
+- `managers` - required reading for people managing programmers including team leads
+- `everyone` - relevant for everyone who interacts with any programmer
 
 Please feel free to submit changes to this repo.
