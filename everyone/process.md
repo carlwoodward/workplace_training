@@ -57,7 +57,7 @@ Other things:
 
 ## Estimation
 
-Software estimation is notoriously hard and almost never correct. Agile promotes the removal of time based estimation in favour broad estimates which compare one task to another. Asking a developer for a time estimation goes against agile practices and whatever they tell you will probably be very wrong. Working to the simplest possible feature that drives the highest business value tends to render estimates useless.
+Software estimation is notoriously hard and almost never correct. Agile promotes the removal of time based estimation in favour of broad estimates which compare one task to another. Asking a developer for a time estimation goes against agile practices and whatever they tell you will probably be very wrong. Working to the simplest possible feature that drives the highest business value tends to render estimates useless.
 
 ## Beta Group
 
@@ -65,10 +65,10 @@ A common practice is to recruit a group of users that you trust and enlist them 
 
 ## Developers and designers
 
-There are a bunch of different ways that designers can work with developers. Each is valid and will need to be evaluated based on the type of project. For example design first is very relavant for website projects but a protypical approach usually works better for data heavy apps. Taking the team into account is very important when making this choice.
+There are a bunch of different ways that designers can work with developers. Each is valid and will need to be evaluated based on the type of project. For example design first is very relavant for website projects but a prototype driven approach usually works better for data heavy apps. Taking the team into account is very important when making this choice.
 
 1. Design first - designers complete pixel perfect designs and hand them over to development
-2. Prototypical - designers and developers prototype flows together and put them infront of a beta group before refining
+2. Prototype driven - designers and developers prototype flows together and put them infront of a beta group before refining
 3. Development first - developers work up a working version of the software and design corrects the software as it is built
 
 ## Delivery
