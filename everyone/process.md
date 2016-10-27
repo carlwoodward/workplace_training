@@ -35,7 +35,6 @@ Other things:
 
 1. Pick a product owner, a person who represents all stake holders of the product - this person **must** have the vision of the product in their head and be able to sketch out an idea of how it will work.
 2. Decide on a work structure/pipeline. Kanban focuses on more of a pipeline approach so rather then creating a ticket for a task, a feature is followed through it's lifecycle. E.g. 
-
 ```
 +------------+------------------------------+----------------------------+------------+-------------+
 |            |                              |                            |            |             |
@@ -48,7 +47,6 @@ Other things:
              +---------------+--------------+--------------+-------------+
 
 ```
-
 4. Assign a WIP limit (maximum number of tasks for a column) for every doing column.
 5. Have regular planning meetings where features are discussed but estimation is not required.
 6. Run stand up meetings and retrospectives in the same structure as Scrum.
